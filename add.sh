@@ -1,5 +1,5 @@
 #!/bin/bash
-a
-b
+a=20
+b=30
 c
 
